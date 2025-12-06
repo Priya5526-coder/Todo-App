@@ -14,3 +14,6 @@ Users can add, update, and delete tasks with a clean and responsive interface.
 - HTML, CSS, Bootstrap
 - SQLite (default database)
 
+# output 
+https://github.com/user-attachments/assets/23b756eb-2571-454b-b067-51075426cdc9
+
